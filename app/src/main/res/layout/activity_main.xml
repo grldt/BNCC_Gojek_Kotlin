@@ -33,10 +33,11 @@
         android:textSize="17sp"
         android:fontFamily="sans-serif"
         android:textColor="@color/colorPrimary"
-        android:text="A Keyboard is lorem ipsum dolor sit amet, consectetur adipiscing."/>
+        android:text="A Keyboard is lorem ipsum dolor sit amet, consectetur adipiscing."
+        android:id="@+id/btnNext"/>
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnHome"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Lorem ipsum"
